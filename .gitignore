@@ -1,0 +1,33 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Output of the npm package manager
+npm-debug.log
+
+# TypeScript files
+*.tsbuildinfo
+
+# Environment variables
+.env
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Compiled output
+build/
+
+# macOS files
+.DS_Store
+
+# Cache and Temporary files
+.cache/
+.temp/
+
+# User-specific files
+.npmrc
+.yarnrc
